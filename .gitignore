@@ -34,3 +34,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+/products
+/public/products
+
+node_modules/
+.next/
+.swc/
+.*.env
+.env
